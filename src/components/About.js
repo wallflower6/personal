@@ -12,7 +12,7 @@ const About = () => {
                 <li>
                     <div className="container">
                         <h6><b>Computer Graphics</b></h6>
-                        <p>I have a growing interest in the field of computer graphics, the programming side and the art it is used to create. Currently, I have been exploring the art side, experimenting with 3D software like Blender and Maya. I aim to learn more about computer graphics programming in the near future.</p>
+                        <p>I have a growing interest in the field of computer graphics, both from the perspective of programming and art. Currently, I have been exploring the art side, experimenting with 3D software like Blender and Maya. I plan to explore the programming side in the near future.</p>
                     </div>
                 </li>
 

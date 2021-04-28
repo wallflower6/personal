@@ -15,7 +15,8 @@ class Portfolio extends Component {
         ],
         games : [
             {id:1, title: "Lame Space Collector", url:"https://wallflower6.github.io/LameSpaceCollector/", desc: "Collect stars and gems in a spacecraft but keep an eye out for asteroids! Inspired by snake, a project to try some beginner's independent work in Unity."},
-            {id:2, title: "Pong Clone", url:"https://wallflower6.github.io/PongClone/", desc: "Pong clone, drew on Noobtuts' tutorial. Added in some extras, like a trail effect, increasing speed, single-player mode, scoreboard, menu, audio."}
+            {id:2, title: "Pong Clone", url:"https://wallflower6.github.io/PongClone/", desc: "Pong clone, drew on Noobtuts' tutorial. Added in some extras, like a trail effect, increasing speed, single-player mode, scoreboard, menu, audio."},
+            {id:3, title: "Anon (Prototype)", url:"https://wallflower6.github.io/anon-prototype/", desc: "Inspired by classic adventure / mystery games, combined with cybersecurity elements."}
         ],
         misc: [
             {id:1, title: "Blender: Doughnut", url:"https://drive.google.com/file/d/1np4tHk0nE_ebUuQckdqy7Wz482BCKMK5/view?usp=sharing", desc: "Followed Blender Guru's doughnut tutorial, and here's my final render. It was my first attempt at 3D modelling, texturing and lighting."},

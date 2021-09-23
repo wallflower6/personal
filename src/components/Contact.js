@@ -23,7 +23,7 @@ const Contact = () => {
                     <li class="divider"></li>
                 </ul>
 
-                <p className="center">Email: lindy.lim.2019@sis.smu.edu.sg</p>
+                <p className="center">Email: lindy.lim.2019@scis.smu.edu.sg</p>
             </div>
         </div>
     )

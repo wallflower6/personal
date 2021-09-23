@@ -22,6 +22,7 @@ class Portfolio extends Component {
         misc: [
             {id:1, title: "Blender: Doughnut", url:"https://drive.google.com/file/d/1np4tHk0nE_ebUuQckdqy7Wz482BCKMK5/view?usp=sharing", desc: "Followed Blender Guru's doughnut tutorial, and here's my final render. It was my first attempt at 3D modelling, texturing and lighting."},
             {id:2, title: "Blender: Sword Scene", url:"https://drive.google.com/file/d/1y6MLLDpA7E_KcbsmwT67G7lxyGq0-ecc/view?usp=sharing", desc: "Followed CG Fast Track's tutorial series. I got to brush up on 3D modelling, learned to use HDRIs, imported assets, was introduced to composition."},
+            {id:3, title: "Blender: Room", url:"https://drive.google.com/file/d/11UNg1f4jv8kKnTb0jAIgYYGEUfjUJaXr/view?usp=sharing", desc: "Followed Polygon Runway's tutorial. Brushed up on 3D modelling, and learned basic lighting and image texturing in Blender."}
         ]
     }
 

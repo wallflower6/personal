@@ -10,15 +10,15 @@ const Contact = () => {
                 <ul className="social-media">
                     <li class="divider"></li>
                     <br />
-                    <li><a href="https://www.linkedin.com/in/lindylim/" target="_blank">LinkedIn</a></li>
+                    <li><a href="https://www.linkedin.com/in/lindylim/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
                     <br />
                     <li class="divider"></li>
                     <br />
-                    <li><a href="https://github.com/wallflower6" target="_blank">Github</a></li>
+                    <li><a href="https://github.com/wallflower6" target="_blank" rel="noopener noreferrer">Github</a></li>
                     <br />
                     <li class="divider"></li>
                     <br />
-                    <li><a href="https://codepen.io/wallflower6" target="_blank">Codepen</a></li>
+                    <li><a href="https://codepen.io/wallflower6" target="_blank" rel="noopener noreferrer">Codepen</a></li>
                     <br />
                     <li class="divider"></li>
                 </ul>

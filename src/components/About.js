@@ -6,7 +6,7 @@ const About = () => {
         <div className="container">
             <br />
             <br />
-            <p>A third-year Computer Science undergraduate at <a href="https://www.smu.edu.sg/" target="_blank">Singapore Management University (SMU)</a>, I have a varied range of skills and interests, and am actively seeking internships (for the summer and December breaks) to continue to learn and grow as well as contribute to an organisation.</p>
+            <p>A third-year Computer Science undergraduate at <a href="https://www.smu.edu.sg/" target="_blank" rel="noopener noreferrer">Singapore Management University (SMU)</a>, I have a varied range of skills and interests, and am actively seeking internships (for the summer and December breaks) to continue to learn and grow as well as contribute to an organisation.</p>
             <p>I've had experience / am familiar with:</p>
             <ul className="show-points">
                 <li>Web development (HTML, CSS, JavaScript - vanilla, jQuery, React, ThreeJS)</li>

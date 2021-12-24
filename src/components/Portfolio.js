@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { NavLink } from 'react-router-dom';
 import '../App.css';
 
 class Portfolio extends Component {
@@ -37,7 +36,7 @@ class Portfolio extends Component {
                     project => {
                         return (
                             <div className="grid-item" key={project.id}>
-                                <h6 className="title"><b><a href={project.url} target="_blank">{project.title}</a></b></h6>
+                                <h6 className="title"><b><a href={project.url} target="_blank" rel="noopener noreferrer">{project.title}</a></b></h6>
                                 <p>{project.desc}</p>
                             </div>
                         )
@@ -53,7 +52,7 @@ class Portfolio extends Component {
                     project => {
                         return (
                             <div className="grid-item" key={project.id}>
-                                <h6 className="title"><b><a href={project.url} target="_blank">{project.title}</a></b></h6>
+                                <h6 className="title"><b><a href={project.url} target="_blank" rel="noopener noreferrer">{project.title}</a></b></h6>
                                 <p>{project.desc}</p>
                             </div>
                         )
@@ -69,7 +68,7 @@ class Portfolio extends Component {
                     project => {
                         return (
                             <div className="grid-item" key={project.id}>
-                                <h6 className="title"><b><a href={project.url} target="_blank">{project.title}</a></b></h6>
+                                <h6 className="title"><b><a href={project.url} target="_blank" rel="noopener noreferrer">{project.title}</a></b></h6>
                                 <p>{project.desc}</p>
                             </div>
                         )

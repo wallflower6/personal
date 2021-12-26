@@ -11,12 +11,14 @@ class Portfolio extends Component {
             {id:4, title: "Pong Clone", url:"https://wallflower6.github.io/PongClone/", desc: "Pong clone, drew on Noobtuts' tutorial. Added in some extras, like a trail effect, increasing speed, single-player mode, scoreboard, menu, audio."}
         ],
         web : [
-          {id:1, title: "Toothless (CSS)", url:"https://codepen.io/wallflower6/full/MLmJLj", desc: "Toothless from Dreamworks' How To Train Your Dragon, made with CSS. A simple project to celebrate the release of the third film, The Hidden World."},
-          {id:2, title: "Tribute Page", url:"https://wallflower6.github.io/tribute-page/", desc: "A tribute page to Alan Turing, made as a freeCodeCamp project. The UI was inspired by the Bletchley Park bombe, but greyed out."},
-          {id:3, title: "House of Quotes", url:"https://codepen.io/wallflower6/full/NvPdvN", desc: "A random quote machine, made as a freeCodeCamp project. Fetches from the Forismatic API."},
-          {id:4, title: "Wikipedia Viewer", url:"https://codepen.io/wallflower6/full/WdbpWL", desc: "Search and view wikipedia articles, made as a freeCodeCamp project. Uses the Wikipedia API."},
-          {id:5, title: "Product Landing Page", url:"https://codepen.io/wallflower6/full/omeBYx", desc: "How To Train Your Dragon-themed product landing page, a freeCodeCamp project. Frontend only, with no backend functionality."},
-          {id:6, title: "Whack-A-Char", url:"https://wallflower6.github.io/whack-a-char/", desc: "Based on Wes Bos's JS30 tutorial, modified with characters from my favourite films, includes a mallet and sound effects."}
+            {id:1, title: "Middleware (Como Club)", url:"https://github.com/wallflower6/CS301-project/tree/main/project-report", desc: "Architecture project done for a school module. My tasks included writing AWS CloudFormation templates and building part of the application in Java (Spring Boot)."},
+            {id:2, title: "Stripe payment microservice", url:"https://github.com/wallflower6/CS302-project", desc: "DevOps project done for a school module. I worked on a microservice for payments with Stripe API integration and a DevOps pipeline."},
+          {id:3, title: "Toothless (CSS)", url:"https://codepen.io/wallflower6/full/MLmJLj", desc: "Toothless from Dreamworks' How To Train Your Dragon, made with CSS. A simple project to celebrate the release of the third film, The Hidden World."},
+          {id:4, title: "Tribute Page", url:"https://wallflower6.github.io/tribute-page/", desc: "A tribute page to Alan Turing, made as a freeCodeCamp project. The UI was inspired by the Bletchley Park bombe, but greyed out."},
+          {id:5, title: "House of Quotes", url:"https://codepen.io/wallflower6/full/NvPdvN", desc: "A random quote machine, made as a freeCodeCamp project. Fetches from the Forismatic API."},
+          {id:6, title: "Wikipedia Viewer", url:"https://codepen.io/wallflower6/full/WdbpWL", desc: "Search and view wikipedia articles, made as a freeCodeCamp project. Uses the Wikipedia API."},
+          {id:7, title: "Product Landing Page", url:"https://codepen.io/wallflower6/full/omeBYx", desc: "How To Train Your Dragon-themed product landing page, a freeCodeCamp project. Frontend only, with no backend functionality."},
+          {id:8, title: "Whack-A-Char", url:"https://wallflower6.github.io/whack-a-char/", desc: "Based on Wes Bos's JS30 tutorial, modified with characters from my favourite films, includes a mallet and sound effects."}
         ],
         misc: [
             {id:1, title: "Blender: Doughnut", url:"https://drive.google.com/file/d/1np4tHk0nE_ebUuQckdqy7Wz482BCKMK5/view?usp=sharing", desc: "Followed Blender Guru's doughnut tutorial, and here's my final render. It was my first attempt at 3D modelling, texturing and lighting."},

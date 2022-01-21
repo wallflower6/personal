@@ -8,7 +8,8 @@ class Portfolio extends Component {
             {id:1, title: "Anon", url:"https://venushmallow.github.io/Anon/", desc: "A simple narrative game where you learn basic OSINT skills and track down your missing friend. School project for Software Project Management. My role included building Levels 1-2."},
             {id:2, title: "Housemates from Hell", url:"https://wallflower6.itch.io/housemates-from-hell", desc: "A very simple game made for GMTK Game Jam 2021 (theme: Joined Together) in under 48 hours using free assets from Kenney and OpenGameArt. For MacOS."},
             {id:3, title: "Lame Space Collector", url:"https://wallflower6.github.io/LameSpaceCollector/", desc: "Collect stars and gems in a spacecraft but keep an eye out for asteroids! Inspired by snake, a project to try some beginner's independent work in Unity."},
-            {id:4, title: "Pong Clone", url:"https://wallflower6.github.io/PongClone/", desc: "Pong clone, drew on Noobtuts' tutorial. Added in some extras, like a trail effect, increasing speed, single-player mode, scoreboard, menu, audio."}
+            {id:4, title: "Pong Clone", url:"https://wallflower6.github.io/PongClone/", desc: "Pong clone, drew on Noobtuts' tutorial. Added in some extras, like a trail effect, increasing speed, single-player mode, scoreboard, menu, audio."},
+            {id:5, title: "(WIP) RPG Clone", url:"https://youtu.be/JsVsHYCc-Hc", desc: "An attempt at making a clone of the 2009 RPG Dragon Age: Origins."}
         ],
         web : [
             {id:1, title: "Middleware (Como Club)", url:"https://github.com/wallflower6/CS301-project/tree/main/project-report", desc: "Architecture project done for a school module. My tasks included writing AWS CloudFormation templates and building part of the application in Java (Spring Boot)."},
